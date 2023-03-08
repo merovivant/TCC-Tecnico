@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{69432EC2-F6E0-40B6-B814-F9A7F9224A23}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CosmosHotel</RootNamespace>
+    <AssemblyName>CosmosHotel</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>hnet.com-image %283%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>packages\BouncyCastle.1.8.5\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.14.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>packages\Google.Protobuf.3.14.0\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.2.5, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.2.5\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Compression.LZ4.1.2.6\lib\net46\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Compression.LZ4.Streams.1.2.6\lib\net46\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Hash.xxHash.1.0.6\lib\net46\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\..\Downloads\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=8.0.27.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>packages\MySql.Data.8.0.27\lib\net452\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>packages\MySql.Data.8.0.27\lib\net452\Ubiety.Dns.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="XanderUI">
+      <HintPath>..\..\..\..\..\Downloads\XanderUI-master\XanderUI.dll</HintPath>
+    </Reference>
+    <Reference Include="ZstdNet, Version=1.4.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>packages\MySql.Data.8.0.27\lib\net452\ZstdNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Cartão\Cartao.cs" />
+    <Compile Include="Classes\Cliente\Cliente.cs" />
+    <Compile Include="Classes\Cliente\ClienteDAL.cs" />
+    <Compile Include="Classes\EstadaQuarto\EstadaQuarto.cs" />
+    <Compile Include="Classes\Estada\Estada.cs" />
+    <Compile Include="Classes\Evento\Evento.cs" />
+    <Compile Include="Classes\Funcionario\FuncionarioDAL.cs" />
+    <Compile Include="Classes\ProdutoPedido\ProdutoPedido.cs" />
+    <Compile Include="Classes\Produto\Produto.cs" />
+    <Compile Include="Classes\Produto\ProdutoDAL.cs" />
+    <Compile Include="Classes\Quarto\Quarto.cs" />
+    <Compile Include="Classes\ServiçoPedido\ServicoPedido.cs" />
+    <Compile Include="Classes\Serviço\ServicoDAL.cs" />
+    <Compile Include="Classes\Serviço\Servico.cs" />
+    <Compile Include="Conexao.cs" />
+    <Compile Include="Classes\Funcionario\Funcionario.cs" />
+    <Compile Include="Classes\Pedido\Pedido.cs" />
+    <Compile Include="Index.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Index.Designer.cs">
+      <DependentUpon>Index.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControls\UCCadastro\UCCadastroCli.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCCadastro\UCCadastroCli.Designer.cs">
+      <DependentUpon>UCCadastroCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCCadastro\UCCadastroEst.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCCadastro\UCCadastroEst.Designer.cs">
+      <DependentUpon>UCCadastroEst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCCadastro\UCCadastroFunc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCCadastro\UCCadastroFunc.Designer.cs">
+      <DependentUpon>UCCadastroFunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCCadastro\UCCadastroPed.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCCadastro\UCCadastroPed.Designer.cs">
+      <DependentUpon>UCCadastroPed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCCadastro\UCCadastroProd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCCadastro\UCCadastroProd.Designer.cs">
+      <DependentUpon>UCCadastroProd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCCadastro\UCCadastroQuarto.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCCadastro\UCCadastroQuarto.Designer.cs">
+      <DependentUpon>UCCadastroQuarto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCCadastro\UCCadastroEvento.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCCadastro\UCCadastroEvento.Designer.cs">
+      <DependentUpon>UCCadastroEvento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCConsulta\UCConsultaCli.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCConsulta\UCConsultaCli.Designer.cs">
+      <DependentUpon>UCConsultaCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCConsulta\UCConsultaEst.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCConsulta\UCConsultaEst.Designer.cs">
+      <DependentUpon>UCConsultaEst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCConsulta\UCConsultaFunc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCConsulta\UCConsultaFunc.Designer.cs">
+      <DependentUpon>UCConsultaFunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCConsulta\UCConsultaPed.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCConsulta\UCConsultaPed.Designer.cs">
+      <DependentUpon>UCConsultaPed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCConsulta\UCConsultaProd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCConsulta\UCConsultaProd.Designer.cs">
+      <DependentUpon>UCConsultaProd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCConsulta\UCConsultaQuarto.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCConsulta\UCConsultaQuarto.Designer.cs">
+      <DependentUpon>UCConsultaQuarto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCConsulta\UCConsultaEvento.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCConsulta\UCConsultaEvento.Designer.cs">
+      <DependentUpon>UCConsultaEvento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCHome.Designer.cs">
+      <DependentUpon>UCHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCModifica\UCModificaCli.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCModifica\UCModificaCli.Designer.cs">
+      <DependentUpon>UCModificaCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCModifica\UCModificaEst.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCModifica\UCModificaEst.Designer.cs">
+      <DependentUpon>UCModificaEst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCModifica\UCModificaFunc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCModifica\UCModificaFunc.Designer.cs">
+      <DependentUpon>UCModificaFunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCModifica\UCModificaPed.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCModifica\UCModificaPed.Designer.cs">
+      <DependentUpon>UCModificaPed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCModifica\UCModificaProd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCModifica\UCModificaProd.Designer.cs">
+      <DependentUpon>UCModificaProd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCModifica\UCModificaQuarto.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCModifica\UCModificaQuarto.Designer.cs">
+      <DependentUpon>UCModificaQuarto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCModifica\UCModificaEvento.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCModifica\UCModificaEvento.Designer.cs">
+      <DependentUpon>UCModificaEvento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UCPrincipal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\UCPrincipal.Designer.cs">
+      <DependentUpon>UCPrincipal.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Index.resx">
+      <DependentUpon>Index.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCCadastro\UCCadastroCli.resx">
+      <DependentUpon>UCCadastroCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCCadastro\UCCadastroEst.resx">
+      <DependentUpon>UCCadastroEst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCCadastro\UCCadastroFunc.resx">
+      <DependentUpon>UCCadastroFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCCadastro\UCCadastroPed.resx">
+      <DependentUpon>UCCadastroPed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCCadastro\UCCadastroProd.resx">
+      <DependentUpon>UCCadastroProd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCCadastro\UCCadastroQuarto.resx">
+      <DependentUpon>UCCadastroQuarto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCCadastro\UCCadastroEvento.resx">
+      <DependentUpon>UCCadastroEvento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCConsulta\UCConsultaCli.resx">
+      <DependentUpon>UCConsultaCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCConsulta\UCConsultaEst.resx">
+      <DependentUpon>UCConsultaEst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCConsulta\UCConsultaFunc.resx">
+      <DependentUpon>UCConsultaFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCConsulta\UCConsultaPed.resx">
+      <DependentUpon>UCConsultaPed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCConsulta\UCConsultaProd.resx">
+      <DependentUpon>UCConsultaProd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCConsulta\UCConsultaQuarto.resx">
+      <DependentUpon>UCConsultaQuarto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCConsulta\UCConsultaEvento.resx">
+      <DependentUpon>UCConsultaEvento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCHome.resx">
+      <DependentUpon>UCHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCModifica\UCModificaCli.resx">
+      <DependentUpon>UCModificaCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCModifica\UCModificaEst.resx">
+      <DependentUpon>UCModificaEst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCModifica\UCModificaFunc.resx">
+      <DependentUpon>UCModificaFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCModifica\UCModificaPed.resx">
+      <DependentUpon>UCModificaPed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCModifica\UCModificaProd.resx">
+      <DependentUpon>UCModificaProd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCModifica\UCModificaQuarto.resx">
+      <DependentUpon>UCModificaQuarto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCModifica\UCModificaEvento.resx">
+      <DependentUpon>UCModificaEvento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\UCPrincipal.resx">
+      <DependentUpon>UCPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="hnet.com-image %283%29.ico" />
+    <Content Include="Logo-Normal %282%29.ico" />
+    <Content Include="Logo-Normal.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

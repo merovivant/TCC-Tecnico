@@ -1,0 +1,1276 @@
+C:\Users\adrie\source\repos\CosmosHotel\CosmosHotel\bin\Debug\CosmosHotel.exe.config
+C:\Users\adrie\source\repos\CosmosHotel\CosmosHotel\bin\Debug\CosmosHotel.exe
+C:\Users\adrie\source\repos\CosmosHotel\CosmosHotel\bin\Debug\CosmosHotel.pdb
+C:\Users\adrie\source\repos\CosmosHotel\CosmosHotel\bin\Debug\Guna.UI2.dll
+C:\Users\adrie\source\repos\CosmosHotel\CosmosHotel\bin\Debug\MetroFramework.dll
+C:\Users\adrie\source\repos\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.csproj.AssemblyReference.cache
+C:\Users\adrie\source\repos\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.Form1.resources
+C:\Users\adrie\source\repos\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.Properties.Resources.resources
+C:\Users\adrie\source\repos\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+C:\Users\adrie\source\repos\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+C:\Users\adrie\source\repos\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.csproj.CopyComplete
+C:\Users\adrie\source\repos\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.exe
+C:\Users\adrie\source\repos\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.pdb
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\bin\Debug\CosmosHotel.exe.config
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\bin\Debug\CosmosHotel.exe
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\bin\Debug\CosmosHotel.pdb
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.Properties.Resources.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.csproj.CopyComplete
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.exe
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.pdb
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.Index.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.Login.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\bin\Debug\XanderUI.dll
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroServ.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaServ.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaServ.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed2.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\bin\Debug\CosmosHotel.exe.config
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\bin\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\bin\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.Index.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.Login.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.Properties.Resources.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed2.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroServ.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaServ.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaServ.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.csproj.CopyComplete
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.pdb
+C:\Users\adrie\OneDrive - Etec Centro Paula Souza\TCC\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.csproj.AssemblyReference.cache
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\bin\Debug\CosmosHotel.exe.config
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\bin\Debug\CosmosHotel.exe
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\bin\Debug\CosmosHotel.pdb
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.Index.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.Login.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.Properties.Resources.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed2.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroServ.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaServ.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaServ.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.csproj.CopyComplete
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.exe
+E:\VS Projetos\C#\CosmosHotel\CosmosHotel\obj\Debug\CosmosHotel.pdb
+E:\VS Projetos\C#\CosmosHotel\bin\Debug\CosmosHotel.exe.config
+E:\VS Projetos\C#\CosmosHotel\bin\Debug\CosmosHotel.exe
+E:\VS Projetos\C#\CosmosHotel\bin\Debug\CosmosHotel.pdb
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.Index.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.Login.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.Properties.Resources.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed2.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroServ.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaServ.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaServ.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.csproj.CopyComplete
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.exe
+E:\VS Projetos\C#\CosmosHotel\obj\Debug\CosmosHotel.pdb
+E:\Downloads\C#\C#\CosmosHotel\bin\Debug\CosmosHotel.exe.config
+E:\Downloads\C#\C#\CosmosHotel\bin\Debug\CosmosHotel.exe
+E:\Downloads\C#\C#\CosmosHotel\bin\Debug\CosmosHotel.pdb
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.Index.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.Login.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.Properties.Resources.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed2.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroServ.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaServ.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaServ.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.csproj.CopyComplete
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.exe
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.pdb
+E:\Downloads\C#\C#\CosmosHotel\obj\Debug\CosmosHotel.IndexRecep.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\bin\Debug\CosmosHotel.exe.config
+E:\Downloads\C#\C# 1.1\CosmosHotel\bin\Debug\CosmosHotel.exe
+E:\Downloads\C#\C# 1.1\CosmosHotel\bin\Debug\CosmosHotel.pdb
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.Index.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.Login.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.Properties.Resources.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed2.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroServ.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaServ.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaServ.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.csproj.CopyComplete
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.exe
+E:\Downloads\C#\C# 1.1\CosmosHotel\obj\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.exe.config
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Index.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Login.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Properties.Resources.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed2.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroServ.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaServ.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaServ.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.CopyComplete
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\MySql.Data.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\System.Buffers.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\System.Memory.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\ZstdNet.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\MySql.Data.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\System.Buffers.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\System.Memory.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.exe.config
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.exe
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.pdb
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\BouncyCastle.Crypto.dll
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.dll
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.dll
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\K4os.Hash.xxHash.dll
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\MySql.Data.dll
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\System.Buffers.dll
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\System.Memory.dll
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\System.Numerics.Vectors.dll
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\Ubiety.Dns.Core.dll
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\ZstdNet.dll
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.pdb
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.xml
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.xml
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\K4os.Hash.xxHash.xml
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\MySql.Data.xml
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\System.Buffers.xml
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\System.Memory.xml
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\System.Numerics.Vectors.xml
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Index.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Login.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Properties.Resources.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed2.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroServ.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaServ.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaServ.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.CopyComplete
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.exe
+E:\Downloads\OneDrive_2021-11-22\C# 1.2 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Index.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Login.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Properties.Resources.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed2.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroServ.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaServ.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaServ.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.exe.config
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\MySql.Data.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\System.Buffers.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\System.Memory.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\ZstdNet.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\MySql.Data.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\System.Buffers.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\System.Memory.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.CopyComplete
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.exe.config
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.exe
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.pdb
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\BouncyCastle.Crypto.dll
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.dll
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.dll
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\K4os.Hash.xxHash.dll
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\MySql.Data.dll
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\System.Buffers.dll
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\System.Memory.dll
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\System.Numerics.Vectors.dll
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\Ubiety.Dns.Core.dll
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\ZstdNet.dll
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.pdb
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.xml
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.xml
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\K4os.Hash.xxHash.xml
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\MySql.Data.xml
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\System.Buffers.xml
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\System.Memory.xml
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\System.Numerics.Vectors.xml
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Index.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Login.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Properties.Resources.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed2.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroServ.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaServ.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaServ.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.CopyComplete
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.exe
+E:\Downloads\C# 1.2.1 - MYSQL\C# 1.2.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Index.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Login.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Properties.Resources.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed2.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroServ.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaServ.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaServ.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.exe.config
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\MySql.Data.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Buffers.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Memory.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\ZstdNet.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\MySql.Data.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Buffers.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Memory.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.CopyComplete
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.exe.config
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.exe
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.pdb
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\BouncyCastle.Crypto.dll
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.dll
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.dll
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Hash.xxHash.dll
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\MySql.Data.dll
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Buffers.dll
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Memory.dll
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Numerics.Vectors.dll
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Ubiety.Dns.Core.dll
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\ZstdNet.dll
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.pdb
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.xml
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.xml
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Hash.xxHash.xml
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\MySql.Data.xml
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Buffers.xml
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Memory.xml
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Numerics.Vectors.xml
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Index.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Login.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Properties.Resources.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed2.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroServ.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaServ.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaServ.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.CopyComplete
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.exe
+E:\Downloads\OneDrive_2021-11-24\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\C# Carvalho\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Guna.UI2.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Index.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Login.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Properties.Resources.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroServ.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaServ.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaServ.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.exe.config
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Guna.UI2.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\MySql.Data.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Buffers.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Memory.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\ZstdNet.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\MySql.Data.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Buffers.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Memory.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.CopyComplete
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.exe.config
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.exe
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.pdb
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\BouncyCastle.Crypto.dll
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.dll
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Guna.UI2.dll
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.dll
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Hash.xxHash.dll
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\MySql.Data.dll
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Buffers.dll
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Memory.dll
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Numerics.Vectors.dll
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Ubiety.Dns.Core.dll
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\ZstdNet.dll
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.pdb
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.xml
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.xml
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\K4os.Hash.xxHash.xml
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\MySql.Data.xml
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Buffers.xml
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Memory.xml
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Numerics.Vectors.xml
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Index.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Login.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Properties.Resources.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroServ.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaServ.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaServ.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.CopyComplete
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.exe
+E:\Downloads\OneDrive_2021-11-25\C# 1.3 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Index.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Login.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.Properties.Resources.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEvento.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEvento.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEvento.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.exe.config
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\Guna.UI2.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\MySql.Data.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\System.Buffers.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\System.Memory.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\ZstdNet.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\Google.Protobuf.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\MySql.Data.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\System.Buffers.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\System.Memory.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C# 1.3.1 - MYSQL\CosmosHotel\obj\Debug\CosmosHotel.csproj.CopyComplete
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\CosmosHotel.exe.config
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\Google.Protobuf.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\Guna.UI2.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\MySql.Data.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\System.Buffers.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\System.Memory.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\ZstdNet.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\Google.Protobuf.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\MySql.Data.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\System.Buffers.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\System.Memory.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.Index.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.Login.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.Properties.Resources.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEvento.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEvento.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEvento.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.csproj.CopyComplete
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\C#\obj\Debug\CosmosHotel.pdb
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\CosmosHotel.exe.config
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\CosmosHotel.exe
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\CosmosHotel.pdb
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\BouncyCastle.Crypto.dll
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\Google.Protobuf.dll
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\Guna.UI2.dll
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\K4os.Compression.LZ4.dll
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\K4os.Hash.xxHash.dll
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\MySql.Data.dll
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\System.Buffers.dll
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\System.Memory.dll
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\System.Numerics.Vectors.dll
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\Ubiety.Dns.Core.dll
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\ZstdNet.dll
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\Google.Protobuf.pdb
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\Google.Protobuf.xml
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\K4os.Compression.LZ4.xml
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\K4os.Hash.xxHash.xml
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\MySql.Data.xml
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\System.Buffers.xml
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\System.Memory.xml
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\System.Numerics.Vectors.xml
+E:\Downloads\Desktop\Desktop\C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.Index.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.Login.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.Properties.Resources.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEvento.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEvento.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEvento.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.csproj.CopyComplete
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.exe
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.pdb
+E:\Downloads\Desktop\Desktop\C#\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\CosmosHotel.exe.config
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\Google.Protobuf.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\Guna.UI2.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\MySql.Data.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\System.Buffers.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\System.Memory.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\ZstdNet.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\Google.Protobuf.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\MySql.Data.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\System.Buffers.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\System.Memory.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.Index.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.Login.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.Properties.Resources.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEvento.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEvento.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEvento.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.csproj.CopyComplete
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 2.5\C#\obj\Debug\CosmosHotel.pdb
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\CosmosHotel.exe.config
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\CosmosHotel.exe
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\CosmosHotel.pdb
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\BouncyCastle.Crypto.dll
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\Google.Protobuf.dll
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\Guna.UI2.dll
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\K4os.Compression.LZ4.dll
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\K4os.Hash.xxHash.dll
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\MySql.Data.dll
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\System.Buffers.dll
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\System.Memory.dll
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\System.Numerics.Vectors.dll
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\Ubiety.Dns.Core.dll
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\ZstdNet.dll
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\Google.Protobuf.pdb
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\Google.Protobuf.xml
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\K4os.Compression.LZ4.xml
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\K4os.Hash.xxHash.xml
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\MySql.Data.xml
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\System.Buffers.xml
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\System.Memory.xml
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\System.Numerics.Vectors.xml
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.Index.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.Login.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.Properties.Resources.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEvento.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEvento.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEvento.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.csproj.CopyComplete
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.exe
+E:\Downloads\OneDrive_2021-11-27\Desktop 2.5\C#\obj\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.Index.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.Login.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.Properties.Resources.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEvento.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEvento.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEvento.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\CosmosHotel.exe.config
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\Google.Protobuf.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\Guna.UI2.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\MySql.Data.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\System.Buffers.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\System.Memory.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\ZstdNet.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\Google.Protobuf.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\MySql.Data.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\System.Buffers.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\System.Memory.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 3.5\C#\obj\Debug\CosmosHotel.csproj.CopyComplete
+E:\Downloads\C# 3.5\C#\bin\Debug\CosmosHotel.exe.config
+E:\Downloads\C# 3.5\C#\bin\Debug\CosmosHotel.exe
+E:\Downloads\C# 3.5\C#\bin\Debug\CosmosHotel.pdb
+E:\Downloads\C# 3.5\C#\bin\Debug\BouncyCastle.Crypto.dll
+E:\Downloads\C# 3.5\C#\bin\Debug\Google.Protobuf.dll
+E:\Downloads\C# 3.5\C#\bin\Debug\Guna.UI2.dll
+E:\Downloads\C# 3.5\C#\bin\Debug\K4os.Compression.LZ4.dll
+E:\Downloads\C# 3.5\C#\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Downloads\C# 3.5\C#\bin\Debug\K4os.Hash.xxHash.dll
+E:\Downloads\C# 3.5\C#\bin\Debug\MySql.Data.dll
+E:\Downloads\C# 3.5\C#\bin\Debug\System.Buffers.dll
+E:\Downloads\C# 3.5\C#\bin\Debug\System.Memory.dll
+E:\Downloads\C# 3.5\C#\bin\Debug\System.Numerics.Vectors.dll
+E:\Downloads\C# 3.5\C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Downloads\C# 3.5\C#\bin\Debug\Ubiety.Dns.Core.dll
+E:\Downloads\C# 3.5\C#\bin\Debug\ZstdNet.dll
+E:\Downloads\C# 3.5\C#\bin\Debug\Google.Protobuf.pdb
+E:\Downloads\C# 3.5\C#\bin\Debug\Google.Protobuf.xml
+E:\Downloads\C# 3.5\C#\bin\Debug\K4os.Compression.LZ4.xml
+E:\Downloads\C# 3.5\C#\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Downloads\C# 3.5\C#\bin\Debug\K4os.Hash.xxHash.xml
+E:\Downloads\C# 3.5\C#\bin\Debug\MySql.Data.xml
+E:\Downloads\C# 3.5\C#\bin\Debug\System.Buffers.xml
+E:\Downloads\C# 3.5\C#\bin\Debug\System.Memory.xml
+E:\Downloads\C# 3.5\C#\bin\Debug\System.Numerics.Vectors.xml
+E:\Downloads\C# 3.5\C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.Index.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.Login.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.Properties.Resources.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEvento.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEvento.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEvento.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.csproj.CopyComplete
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.exe
+E:\Downloads\C# 3.5\C#\obj\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\CosmosHotel.exe.config
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\Google.Protobuf.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\Guna.UI2.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\MySql.Data.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\System.Buffers.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\System.Memory.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\ZstdNet.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\Google.Protobuf.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\MySql.Data.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\System.Buffers.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\System.Memory.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.Index.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.Login.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.Properties.Resources.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEvento.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEvento.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEvento.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.csproj.CopyComplete
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4\C#\obj\Debug\CosmosHotel.pdb
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\CosmosHotel.exe.config
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\CosmosHotel.exe
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\CosmosHotel.pdb
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\BouncyCastle.Crypto.dll
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\Google.Protobuf.dll
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\Guna.UI2.dll
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\K4os.Compression.LZ4.dll
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\K4os.Hash.xxHash.dll
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\MySql.Data.dll
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\System.Buffers.dll
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\System.Memory.dll
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\System.Numerics.Vectors.dll
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\Ubiety.Dns.Core.dll
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\ZstdNet.dll
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\Google.Protobuf.pdb
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\Google.Protobuf.xml
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\K4os.Compression.LZ4.xml
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\K4os.Hash.xxHash.xml
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\MySql.Data.xml
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\System.Buffers.xml
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\System.Memory.xml
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\System.Numerics.Vectors.xml
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.Index.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.Login.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.Properties.Resources.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEvento.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEvento.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEvento.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.csproj.CopyComplete
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.exe
+E:\Downloads\OneDrive_2021-11-30\Desktop 4\C#\obj\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\CosmosHotel.exe.config
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\CosmosHotel.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\Google.Protobuf.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\Guna.UI2.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\MySql.Data.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\System.Buffers.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\System.Memory.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\ZstdNet.dll
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\Google.Protobuf.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\MySql.Data.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\System.Buffers.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\System.Memory.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.csprojAssemblyReference.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.Index.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.Login.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.Properties.Resources.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCCadastro.UCCadastroEvento.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCConsulta.UCConsultaEvento.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCHome.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaCli.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEst.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaFunc.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaPed.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaProd.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaQuarto.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCModifica.UCModificaEvento.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.UserControls.UCPrincipal.resources
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.csproj.GenerateResource.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.csproj.CopyComplete
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.exe
+C:\Users\Jonatas\OneDrive - Etec Centro Paula Souza\Etesp\TCC\Desktop\Desktop 4.2\C#\obj\Debug\CosmosHotel.pdb
